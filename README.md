@@ -9,7 +9,7 @@ Junior developer with almost 2 years of formal experience. I have experience in 
 Desenvolvedor Júnior com quase 2 anos de experiência formal. Tenho experiência em Flutter, Dart, C#, Angular, T-SQL, JavaScript, programando diversos tipos de aplicações para os clientes de uma empresa desenvolvedora de Software especializada em ferramentas Microsoft. Com foco em melhorias do Software com ênfase em Gestão.
 
 * 🌍  I'm based in Charqueada, São Paulo - Brazil
-* ✉️  You can contact me at [cantovitzm@gmail.com, matheus@winart.com.br, matheus@winart.com](mailto:cantovitzm@gmail.com, matheus@winart.com.br, matheus@winart.com)
+* ✉️  You can contact me at [cantovitzm@gmail.com, matheus@winart.com.br, matheus@winart.com]
 * 🚀  I'm currently working on [Winshop Angular](http://www.winart.com.br/)
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on interesting projects
