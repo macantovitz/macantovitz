@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Mid-level Developer
 ------------------
 
-Mid-level developer with almost 2 years of formal experience. I have experience in Flutter, Dart, C#, Angular, T-SQL, JavaScript, programming different types of applications for the clients of a software development company specialized in Microsoft tools. Focusing on Software improvements with emphasis on Management.
+Mid-level developer with almost 5 years of formal experience. I have experience in Flutter, Dart, C#, Angular, T-SQL, JavaScript, programming different types of applications for the clients of a software development company specialized in Microsoft tools. Focusing on Software improvements with emphasis on Management.
 
-Desenvolvedor Pleno com quase 2 anos de experiência formal. Tenho experiência em Flutter, Dart, C#, Angular, T-SQL, JavaScript, programando diversos tipos de aplicações para os clientes de uma empresa desenvolvedora de Software especializada em ferramentas Microsoft. Com foco em melhorias do Software com ênfase em Gestão.
+Desenvolvedor Pleno com quase 5 anos de experiência formal. Tenho experiência em Flutter, Dart, C#, Angular, T-SQL, JavaScript, programando diversos tipos de aplicações para os clientes de uma empresa desenvolvedora de Software especializada em ferramentas Microsoft. Com foco em melhorias do Software com ênfase em Gestão.
 
 * 🌍  I'm based in Charqueada, São Paulo - Brazil
 * ✉️  You can contact me at [cantovitzm@gmail.com, matheus@winart.com.br, matheus@winart.com]
