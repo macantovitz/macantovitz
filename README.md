@@ -10,8 +10,8 @@ Desenvolvedor Sênior com quase 5 anos de experiência formal. Tenho experiênci
 
 * 🌍  I'm based in Charqueada, São Paulo - Brazil
 * ✉️  You can contact me at [cantovitzm@gmail.com, matheus@winart.com.br, matheus@winart.com]
-* 🚀  I'm currently working on [Winshop Angular](http://www.winart.com.br/)
-* 🧠  I'm learning Angular
+* 🚀  I'm currently working on [Winshop](http://www.winart.com.br/)
+* 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
