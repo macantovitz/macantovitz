@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- HEADER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Matheus%20Cantovitz&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Co-Founder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Matheus%20Cantovitz&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20S%C3%B3cio%20%40%20Winart%20Software&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Construindo+software+que+importa+🚀;Co-Fundador+na+Winart+Software+🏢;5%2B+anos+transformando+ideias+em+código+💡;Explorando+IA%2C+RAG+e+o+futuro+da+tecnologia+🤖)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Construindo+software+que+importa+🚀;Sócio+na+Winart+Software+🏢;5%2B+anos+transformando+ideias+em+código+💡;Full-Stack+do+mobile+ao+back-end+⚡)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,20 +15,20 @@
 ```typescript
 const matheus: Developer = {
   name:        "Matheus Cantovitz",
-  role:        "Co-Founder & Senior Full-Stack Developer",
+  role:        "Sócio & Senior Full-Stack Developer",
   company:     "Winart Software 🏢",
   location:    "Brasil 🇧🇷",
   experience:  "5+ anos de experiência formal",
   status:      "Building the future, one commit at a time ⚡",
 
   currentFocus: [
-    "Arquitetura de sistemas com IA",
-    "RAG (Retrieval-Augmented Generation)",
+    "Arquitetura de sistemas escaláveis",
     "Liderança técnica & gestão de produto",
+    "Next.js, React e ecossistema moderno",
     "Explorando Rust & Java nas horas vagas 🦀",
   ],
 
-  passions: ["Clean Code", "AI Engineering", "Team Building", "Open Source"],
+  passions: ["Clean Code", "UX que funciona", "Team Building", "Open Source"],
 };
 ```
 
@@ -42,20 +42,18 @@ const matheus: Developer = {
 
 ### 🚀 De Dev a Sócio
 
-De programador CLT a **Co-Fundador** da [Winart Software](https://www.cantovitz.com.br) — uma jornada de 5+ anos construindo soluções reais para clientes reais.
+De programador CLT a **Sócio** da [Winart Software](https://www.cantovitz.com.br) — uma jornada de 5+ anos construindo soluções reais para clientes reais.
 
 Acredito que código de qualidade não é apenas técnica: é **comunicação**, **empatia** e **visão de produto**.
 
 </td>
 <td width="50%">
 
-### 🤖 IA como Ferramenta
+### 🛠️ Sempre Evoluindo
 
-Nos últimos 2 anos mergulhei de cabeça no universo de IA:
-- Implementação de pipelines **RAG**
-- Fine-tuning e prompt engineering
-- Integração de LLMs em produtos reais
-- Da teoria à produção
+Nos últimos 2 anos expandi muito o stack: Next.js, React, Expo, Python, Node — e continuo estudando Rust e Java porque aprender nunca para.
+
+Ferramentas de IA fazem parte do meu dia a dia como qualquer outra — a diferença está em **saber usá-las bem**.
 
 </td>
 </tr>
@@ -64,21 +62,6 @@ Nos últimos 2 anos mergulhei de cabeça no universo de IA:
 ---
 
 ## `$ ls ./skills`
-
-### 🧠 Inteligência Artificial & LLMs
-
-<div align="center">
-
-![Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector_Databases-00C7B7?style=for-the-badge&logo=pinecone&logoColor=white)
-
-</div>
-
----
 
 ### 💻 Linguagens
 
@@ -94,6 +77,8 @@ Nos últimos 2 anos mergulhei de cabeça no universo de IA:
 ![Java](https://img.shields.io/badge/Java_(studying)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
+
+> 🤖 Ferramentas de IA (Claude, GPT, Copilot, DeepSeek...) fazem parte do kit — como qualquer outra ferramenta boa.
 
 ---
 
@@ -169,6 +154,6 @@ Nos últimos 2 anos mergulhei de cabeça no universo de IA:
 <!-- FOOTER ANIMADO -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-<sub>⚡ Co-Fundador @ Winart Software • Feito com 💜 e muito café</sub>
+<sub>⚡ Sócio @ Winart Software • Feito com 💜 e muito café</sub>
 
 </div>
